@@ -1,0 +1,19 @@
+#whatcan i do??????
+#make a game
+la="123"
+lb="456"
+lc="789"
+board=la+lb+lc
+win=0
+
+def printboard():
+    #displaying the board
+    print(la)
+    print(lb)
+    print(lc)
+while win==0:
+    #playing scripts
+    printboard()
+    inputa=input("number you wanna play")
+    
+    printboard()

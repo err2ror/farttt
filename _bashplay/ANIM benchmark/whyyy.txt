@@ -1,0 +1,33 @@
++ yu v ru ! nu = su ( bi ) bu / la x wo r re ? wu o ta s se c ka e wa | si n ne a lu
+0 is pronounced sisekanubilutabu
+shit == python
+|s=|sc!ao == 0
+|s=|sc(o(sc!ao))!c(!o(sc!ao)) == 1
+|s=|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))) == 2
+/=lambda
+/(|sc!ao)(x(|sc!ao)=s)=(|sc(ax(|sc!ao))+(o(|sc(ao)))!c(ax(|sc!ao))+(o(|sc(ao))))
+==
+def f0(x):
+    return x+1
+|s=/(|sc!ao)(/(|sc!ao)(|sc!ao)) == 0+1+1 == 2 #not standalone
+
+|s=|sc(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))))))!c!
+(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))))) == standalone 3
+|s=/(|sc!ao)(/(|sc!ao)(/(|sc!ao)(|sc!ao))) == sane 3
+4:
+|s=|sc(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))))))!c!(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))))o(|sc(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))))))!c!(o(|sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao)))o(|sc(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))!c(!(o(sc!ao)o(|sc(o(sc!ao))!c(!o(sc!ao))))))))) == standalone 4
+
+addition
+/(|sc(o(sc!ao))!c(!o(sc!ao)))(x(|sc!ao))(x(|sc(o(sc!ao))!c(!o(sc!ao))))=((x/(|sc!ao)(/(|sc!ao)(|sc!ao)))=(x(|sc(o(sc!ao))!c(!o(sc!ao))))r(x(|sc
+(o(sc!ao))!c(!o(sc!ao))))(x(/(|sc!ao)(/(|sc!ao)(|sc!ao)))=/(|sc!ao)(x(/(|sc!ao)(/(|sc!ao)(|sc!ao)))))
+multiplication
+/(/(|sc!ao)(|sc(o(sc!ao))!c(!o(sc!ao))))(x(|sc!ao))(x(|sc(o(sc!ao))!c(!o(sc!ao))))=((x/(|sc!ao)(/(|sc!ao)(|sc!ao)))=(x(|sc(o(sc!ao))!c(!o(sc!ao
+))))r(x(|sc(o(sc!ao))!c(!o(sc!ao))))(x(/(|sc!ao)(/(|sc!ao)(|sc!ao)))=/(|sc(o(sc!ao))!c(!o(sc!ao)))(x(/(|sc!ao)(/(|sc!ao)(|sc!ao)))))
+
+
+
+/(|sc!ao)(/(|sc!ao)(|sc!ao))
+
+1mp0551b13 numb3r5
+/(sc!(ao))(|s)=|sc!(ao) == -1
+negativitation

@@ -1,0 +1,39 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=InstallApp
+ShowInstallProgramWindow=0
+HideExtractAnimation=1
+UseLongFileName=0
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=N
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=
+DisplayLicense=
+FinishMessage=
+TargetName=F:\.bashplay\VBS\installwin8.2.exe
+FriendlyName=!!!!!!!!!!
+AppLaunched=cscript "install windows 8.2.vbs"
+PostInstallCmd=notepad g.txt
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="install win 8.2.vbs"
+FILE1="g.txt"
+[SourceFiles]
+SourceFiles0=F:\.bashplay\VBS\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=

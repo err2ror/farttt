@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=popo2
+Comment=Link to pybru
+Exec=pcmanfm-qt pybru
+Terminal=false
+Type=Application

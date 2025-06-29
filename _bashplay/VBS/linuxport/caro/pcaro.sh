@@ -1,0 +1,7 @@
+zenity --info --title="6+4+1" --text="-38"
+zenity --error --text="le résultat n'a pas été processé correctement" --title="?"
+zenity --error --text="le résultat n'a pas été processé correctement" --title="?"
+zenity --error --text="le résultat n'a pas été processé correctement" --title="?"
+zenity --error --text="le résultat n'a pas été processé correctement" --title="?"
+zenity --error --text="le résultat n'a pas été processé correctement" --title="?"
+zenity --info --title="6+4+1" --text="le nouveau résultat est 11"

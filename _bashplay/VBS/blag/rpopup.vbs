@@ -1,0 +1,1 @@
+x=msgbox("continue setup?",4+0,"[          ]")

@@ -1,0 +1,1 @@
+x=msgbox("windows 11 setup finished",0,"oobe coming soon")

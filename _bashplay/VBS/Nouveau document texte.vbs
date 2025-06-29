@@ -1,0 +1,1 @@
+x=msgbox("a",vbOKOnly+vbCritical,"d")

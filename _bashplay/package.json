@@ -1,0 +1,17 @@
+{
+  "name": "bashplayseries",
+  "version": "2.2.0",
+  "description": "uijhji",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "hi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.66.0"
+  }
+}

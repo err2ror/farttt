@@ -1,0 +1,188 @@
+.
+├── [-rw-r--r-- orso     orso        0 Mar 25 20:31]  when i run tree -psahrugDc --sort=mtime
+├── [-rw-r--r-- orso     orso      17M Mar 22 18:25]  tf.mem.test
+├── [drwxr-xr-x orso     orso      16K Mar 16 18:40]  my.py
+│   ├── [-rw-r--r-- orso     orso       36 Mar  9 11:38]  pcexplode.sh
+│   ├── [drwxr-xr-x orso     orso      16K Mar  9 11:34]  pybru
+│   │   ├── [-rw-r--r-- orso     orso     1.7K Feb 13 16:03]  ren.py
+│   │   ├── [-rw-r--r-- orso     orso      832 Feb 13 16:03]  PyBRU.py
+│   │   └── [-rw-r--r-- orso     orso      148 Feb 13 16:03]  makefile.py
+│   ├── [-rw-r--r-- orso     orso     1.1K Mar  8 17:36]  ln -h.py
+│   ├── [-rw-r--r-- orso     orso      107 Mar  7 18:27]  dich.py
+│   ├── [-rw-r--r-- orso     orso        1 Mar  6 17:50]  text
+│   ├── [-rw-r--r-- orso     orso      103 Mar  6 13:48]  popo2.desktop
+│   ├── [-rw-r--r-- orso     orso      108 Mar  6 13:42]  popo.desktop
+│   ├── [drwxr-xr-x orso     orso     192K Feb 21 19:23]  wtf
+│   │   ├── [-rw-r--r-- orso     orso      121 Feb 20 20:23]  .cmd.7z
+│   │   ├── [-rw-r--r-- orso     orso        3 Feb 20 20:17]  .cmd
+│   │   └── [-rw-r--r-- orso     orso     2.5M Feb 20 20:13]  2mb.zip
+│   ├── [-rw-r--r-- orso     orso       68 Feb 21 19:15]  files
+│   ├── [-rw-r--r-- orso     orso      19K Feb 20 19:26]  MBF.py
+│   ├── [-rw-r--r-- orso     orso       22 Feb 20 14:24]  py.py
+│   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  tewt
+│   │   ├── [-rw-r--r-- orso     orso       11 Feb 13 16:03]  run.sh
+│   │   ├── [-rw-r--r-- orso     orso     6.6M Feb 13 16:03]  cnt.txt
+│   │   ├── [-rw-r--r-- orso     orso      272 Feb 13 16:03]  cpv2.py
+│   │   ├── [-rw-r--r-- orso     orso      625 Feb 13 16:03]  compile.py
+│   │   └── [-rw-r--r-- orso     orso       94 Feb 13 16:03]  interpret.py
+│   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  sndbx
+│   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  osinpy
+│   │   └── [-rw-r--r-- orso     orso     9.0K Feb 13 16:03]  os.py
+│   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  testlnge
+│   │   └── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  opython1
+│   │       ├── [drwxr-xr-x orso     orso      16K Feb 23 18:47]  opython1b3
+│   │       │   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  __pycache__
+│   │       │   │   └── [-rw-r--r-- orso     orso      580 Feb 13 16:03]  vgest.cpython-38.pyc
+│   │       │   ├── [-rw-r--r-- orso     orso      12K Feb 13 16:03]  .jfh.swp
+│   │       │   ├── [-rw-r--r-- orso     orso       87 Feb 13 16:03]  sortiedesecours.py
+│   │       │   ├── [-rw-r--r-- orso     orso        0 Feb 13 16:03]  .varsys.opyche
+│   │       │   ├── [-rw-r--r-- orso     orso      670 Feb 13 16:03]  opython1b2.py
+│   │       │   └── [-rw-r--r-- orso     orso      346 Feb 13 16:03]  vgest.py
+│   │       ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  opython1b2ct1
+│   │       │   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  __pycache__
+│   │       │   │   ├── [-rw-r--r-- orso     orso      486 Feb 13 16:03]  vgor.cpython-38.pyc
+│   │       │   │   └── [-rw-r--r-- orso     orso      302 Feb 13 16:03]  vgest.cpython-38.pyc
+│   │       │   ├── [-rw-r--r-- orso     orso        0 Feb 13 16:03]  try3.py
+│   │       │   ├── [-rw-r--r-- orso     orso      790 Feb 13 16:03]  opython1b2.py
+│   │       │   ├── [-rw-r--r-- orso     orso      205 Feb 13 16:03]  vgest.py
+│   │       │   └── [-rw-r--r-- orso     orso      181 Feb 13 16:03]  vgor.py
+│   │       ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  opython1b2
+│   │       │   ├── [-rw-r--r-- orso     orso      181 Feb 13 16:03]  vgest.py
+│   │       │   └── [-rw-r--r-- orso     orso      572 Feb 13 16:03]  opython1b2.py
+│   │       ├── [-rw-r--r-- orso     orso     1.4K Feb 13 16:03]  progame
+│   │       ├── [-rw-r--r-- orso     orso       12 Feb 13 16:03]  wut.opy
+│   │       ├── [-rw-r--r-- orso     orso        0 Feb 13 16:03]  .varsys.opyche
+│   │       ├── [-rw-r--r-- orso     orso       21 Feb 13 16:03]  fuk2.sh
+│   │       ├── [-rw-r--r-- orso     orso       18 Feb 13 16:03]  fuck.sh
+│   │       └── [-rw-r--r-- orso     orso      178 Feb 13 16:03]  opython1b1.py
+│   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  old
+│   │   ├── [-rw-r--r-- orso     orso     9.1K Feb 13 16:03]  os.py
+│   │   └── [-rw-r--r-- orso     orso     9.0K Feb 13 16:03]  os (1).py
+│   ├── [-rw-r--r-- orso     orso     3.6K Feb 13 16:03]  os2.py
+│   ├── [drwxr-xr-x orso     orso      16K Feb 20 14:29]  python3.9
+│   │   ├── [drwxr-xr-x orso     orso      16K Mar 19 18:48]  fibv4
+│   │   │   ├── [-rw-r--r-- orso     orso     1.8K Mar 19 18:49]  fibofile.txt
+│   │   │   ├── [-rw-r--r-- orso     orso      647 Mar 15 21:24]  fib.py
+│   │   │   ├── [-rw-r--r-- orso     orso        0 Feb 20 14:29]  dositwork.sh
+│   │   │   ├── [-rw-r--r-- orso     orso        0 Feb 20 14:30]  haha.cacapipiprout
+│   │   │   └── [-rw-r--r-- orso     orso      705 Feb 20 14:30]  fibv4.0of.py
+│   │   ├── [-rw-r--r-- orso     orso        0 Feb 20 14:29]  Nouveau document texte.txt
+│   │   ├── [-rw-r--r-- orso     orso      665 Feb 20 14:29]  onlyfilefibo.py
+│   │   ├── [-rw-r--r-- orso     orso       23 Feb 20 14:29]  offibo.cmd
+│   │   ├── [-rw-r--r-- orso     orso       26 Feb 20 14:29]  fibv4b1.4.cmd
+│   │   ├── [-rw-r--r-- orso     orso      211 Feb 20 14:29]  fibonnarchi.py
+│   │   ├── [-rw-r--r-- orso     orso        3 Feb 20 14:29]  opencmdhere.cmd
+│   │   ├── [-rw-r--r-- orso     orso      449 Feb 20 14:29]  fibiv4b1.4onfile.py
+│   │   ├── [-rw-r--r-- orso     orso      644 Feb 20 14:29]  fibonnarchiv4b1.py
+│   │   ├── [-rw-r--r-- orso     orso      343 Feb 20 14:29]  fibonnarchiv3.py
+│   │   ├── [-rw-r--r-- orso     orso      114 Feb 20 14:29]  desktop.ini
+│   │   ├── [-rw-r--r-- orso     orso      835 Feb 20 14:29]  game.stupide
+│   │   ├── [-rw-r--r-- orso     orso      11K Feb 20 14:29]  Nouveau Présentation OpenDocument.odp
+│   │   ├── [-rw-r--r-- orso     orso      283 Feb 20 14:29]  morpion caca.iorsuoitueoitusotuiorzutreoeuitouieroiuiuoe
+│   │   ├── [-rw-r--r-- orso     orso      185 Feb 20 14:29]  fibonnarchiv2.py
+│   │   ├── [-rw-r--r-- orso     orso      100 Feb 20 14:29]  powersof2.py
+│   │   ├── [-rw-r--r-- orso     orso      100 Feb 20 14:29]  po2v2.py
+│   │   └── [-rw-r--r-- orso     orso     3.3K Feb 20 14:29]  tst big ns.py
+│   ├── [-rw-r--r-- orso     orso     9.7K Feb 13 16:03]  osinstaller.py
+│   └── [-rw-r--r-- orso     orso       54 Feb 13 16:03]  new file.py
+├── [drwxr-xr-x orso     orso      16K Mar 16 17:22]  VBS
+│   ├── [drwxr-xr-x orso     orso      16K Mar 16 17:48]  linuxport
+│   │   ├── [drwxr-xr-x orso     orso      16K Mar 16 17:22]  caro
+│   │   │   ├── [drwxr-xr-x orso     orso      16K Mar 16 17:22]  kestionreponse
+│   │   │   └── [-rw-r--r-- orso     orso      540 Mar 15 20:24]  pcaro.sh
+│   │   ├── [-rw-r--r-- orso     orso     128K Mar 16 12:49]  caro.zip
+│   │   ├── [drwxr-xr-x orso     orso      16K Mar 15 21:02]  megapopup
+│   │   │   ├── [-rw-r--r-- orso     orso      160 Mar 15 21:02]  popup6.py
+│   │   │   ├── [-rw-r--r-- orso     orso      21M Mar 15 20:56]  popup5.sh
+│   │   │   ├── [-rw-r--r-- orso     orso      109 Mar 15 20:56]  p5ins.py
+│   │   │   ├── [-rw-r--r-- orso     orso      27K Mar 15 20:38]  popup3.sh
+│   │   │   ├── [-rw-r--r-- orso     orso     3.8K Mar 15 20:37]  popup2.sh
+│   │   │   └── [-rw-r--r-- orso     orso      977 Mar 15 20:35]  popup.sh
+│   │   ├── [-rw-r--r-- orso     orso       37 Mar 15 20:17]  helo.sh
+│   │   ├── [-rw-r--r-- orso     orso      932 Mar 15 20:13]  installwin95.sh
+│   │   ├── [-rw-r--r-- orso     orso       34 Mar 15 20:03]  ndt.sh
+│   │   └── [-rw-r--r-- orso     orso       35 Mar 15 20:02]  vbs compiler.sh
+│   ├── [drwxr-xr-x orso     orso      16K Mar 16 17:23]  POPUPS
+│   │   ├── [drwxr-xr-x orso     orso      16K Mar 15 20:58]  popup6.vbs
+│   │   │   ├── [-rw-r--r-- orso     orso       94 Mar 15 20:58]  popup6.py
+│   │   │   ├── [-rw-r--r-- orso     orso       17 Feb 20 14:14]  pp6.cmd
+│   │   │   └── [-rw-r--r-- orso     orso       37 Feb 20 13:50]  p.vbs
+│   │   ├── [drwxr-xr-x orso     orso      16K Feb 20 14:17]  popup6(2).vbs
+│   │   │   ├── [-rw-r--r-- orso     orso       37 Feb 20 14:17]  p.vbs
+│   │   │   └── [-rw-r--r-- orso     orso       93 Feb 20 14:17]  popup6.py
+│   │   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:50]  popup5.vbs
+│   │   │   └── [-rw-r--r-- orso     orso      12M Feb 20 13:50]  Nouveau document texte.vbs
+│   │   ├── [-rw-r--r-- orso     orso      114 Feb 20 13:49]  desktop.ini
+│   │   ├── [-rw-r--r-- orso     orso     1.4K Feb 20 13:50]  popup4.0.vbs - Raccourci.lnk
+│   │   ├── [-rw-r--r-- orso     orso      33K Feb 20 13:50]  popup4.0.vbs
+│   │   ├── [-rw-r--r-- orso     orso     4.6K Feb 20 13:50]  popup3.0.vbs
+│   │   ├── [-rw-r--r-- orso     orso     1.2K Feb 20 13:50]  a.vbs
+│   │   ├── [-rw-r--r-- orso     orso      118 Feb 20 13:50]  popup.vbs
+│   │   └── [-rw-r--r-- orso     orso      589 Feb 20 13:50]  popup2.0.vbs
+│   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:49]  Nouveau dossier
+│   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:49]  blag
+│   │   ├── [-rw-r--r-- orso     orso        0 Feb 20 13:49]  Nouveau document texte.cmd
+│   │   ├── [-rw-r--r-- orso     orso       58 Feb 20 13:49]  agfgz.vbs
+│   │   ├── [-rw-r--r-- orso     orso     3.0K Feb 20 13:49]  file.cmd
+│   │   └── [-rw-r--r-- orso     orso       46 Feb 20 13:49]  rpopup.vbs
+│   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:49]  popup caro
+│   │   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:49]  a
+│   │   │   ├── [-rw-r--r-- orso     orso      314 Feb 20 13:49]  kestionreponse.vbs
+│   │   │   ├── [-rw-r--r-- orso     orso      314 Feb 20 13:49]  kestionreponse - Copie.vbs
+│   │   │   ├── [-rw-r--r-- orso     orso      314 Feb 20 13:49]  kestionreponse - Copie (2).vbs
+│   │   │   └── [-rw-r--r-- orso     orso      209 Feb 20 13:49]  vbs.vbs
+│   │   ├── [-rw-r--r-- orso     orso      417 Feb 20 13:49]  popup caro2.vbs
+│   │   ├── [-rw-r--r-- orso     orso       27 Feb 20 13:49]  encore.vbs
+│   │   ├── [-rw-r--r-- orso     orso       37 Feb 20 13:49]  surprise.vbs
+│   │   ├── [-rw-r--r-- orso     orso      412 Feb 20 13:49]  popup caro.vbs
+│   │   └── [-rw-r--r-- orso     orso      114 Feb 20 13:49]  desktop.ini
+│   ├── [-rw-r--r-- orso     orso      730 Feb 20 13:49]  hahahahahhahahhahahahhahhahahhaha.vbs
+│   ├── [-rw-r--r-- orso     orso       66 Feb 20 13:49]  helo.vbs
+│   ├── [-rw-r--r-- orso     orso      113 Feb 20 13:49]  desktop.ini
+│   ├── [drwxr-xr-x orso     orso      16K Feb 20 13:49]  tessts
+│   │   ├── [-rw-r--r-- orso     orso       37 Feb 20 13:49]  test2.vbs
+│   │   ├── [-rw-r--r-- orso     orso       20 Feb 20 13:49]  .Scf
+│   │   └── [-rw-r--r-- orso     orso       58 Feb 20 13:49]  test.vbs
+│   ├── [-rw-r--r-- orso     orso      614 Feb 20 13:49]  install win 95.vbs
+│   ├── [-rw-r--r-- orso     orso      614 Feb 20 13:49]  install win 8.2.vbs
+│   ├── [-rw-r--r-- orso     orso       37 Feb 20 13:49]  Nouveau document texte.vbs
+│   └── [-rw-r--r-- orso     orso       22 Feb 20 13:49]  vbs compiler.vbs
+├── [drwxr-xr-x orso     orso      16K Feb 19 17:50]  library_modules
+│   ├── [drwxr-xr-x orso     orso      16K Mar 13 13:55]  modpy
+│   │   ├── [drwxr-xr-x orso     orso      16K Mar 13 13:55]  modpy
+│   │   │   ├── [-rw-r--r-- orso     orso        0 Feb 23 18:41]  modpy.py
+│   │   │   ├── [-rw-r--r-- orso     orso      835 Feb 13 16:03]  pytropy.py
+│   │   │   └── [-rw-r--r-- orso     orso      142 Feb 13 16:03]  testropy.py
+│   │   ├── [-rw-r--r-- orso     orso      12K Feb 23 18:44]  .modpy.py.swp
+│   │   ├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  __pycache__
+│   │   │   ├── [-rw-r--r-- orso     orso      453 Feb 13 16:03]  main.cpython-38.pyc
+│   │   │   └── [-rw-r--r-- orso     orso     1.2K Feb 13 16:03]  pytropy.cpython-38.bin
+│   │   ├── [-rw-r--r-- orso     orso      12K Feb 13 16:03]  .pytropy.py.swp
+│   │   ├── [-rw-r--r-- orso     orso       78 Feb 13 16:03]  LICENSE
+│   │   └── [-rw-r--r-- orso     orso        0 Feb 13 16:03]  readme.md
+│   ├── [drwxr-xr-x orso     orso      16K Feb 19 17:50]  __pycache__
+│   │   └── [-rw-r--r-- orso     orso      458 Feb 19 17:50]  random.cpython-38.pyc
+│   ├── [-rw-r--r-- orso     orso      224 Feb 19 17:50]  random.py
+│   └── [-rw-r--r-- orso     orso     2.0K Feb 13 16:03]  mod1.1.4.js
+├── [-rw-r--r-- orso     orso      401 Feb 13 16:03]  spdtst2.py
+├── [-rw-r--r-- orso     orso        0 Feb 13 16:03]  pylv.py
+├── [-rw-r--r-- orso     orso       20 Feb 13 16:03]  rm.md
+├── [-rw-r--r-- orso     orso      12K Feb 13 16:03]  .spdtstimp.py.swp
+├── [-rw-r--r-- orso     orso      401 Feb 13 16:03]  spdtstimp.py
+├── [-rw-r--r-- orso     orso      401 Feb 13 16:03]  spdtst.py
+├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  wiki
+│   └── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  md
+│       ├── [-rw-r--r-- orso     orso      112 Feb 13 16:03]  welcome.md
+│       └── [-rw-r--r-- orso     orso      193 Feb 13 16:03]  bashrc.md
+├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  heyitsmypyscript!
+│   ├── [-rw-r--r-- orso     orso      628 Feb 17 20:13]  .bashplay - Raccourci.lnk
+│   └── [-rw-r--r-- orso     orso       28 Feb 13 16:03]  test
+├── [drwxr-xr-x orso     orso      16K Feb 13 16:03]  messing
+│   └── [-rw-r--r-- orso     orso      113 Feb 13 16:03]  folder.desktop
+├── [-rw-r--r-- orso     orso      220 Feb 13 16:03]  os.torrent
+├── [-rw-r--r-- orso     orso      57K Feb 13 16:03]  package-lock.json
+├── [-rw-r--r-- orso     orso      274 Feb 13 16:03]  package.json
+├── [-rw-r--r-- orso     orso      134 Mar 13 21:16]  library.sh
+└── [-rw-r--r-- orso     orso     2.4K Feb 13 16:03]  libimjs.sh
+
+39 directories, 146 files
